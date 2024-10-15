@@ -7,7 +7,7 @@ I'm Georgе from Bulgaria. I'm learning the Python language and I love to create
 #### Developer
 
 ### Experience                                         
-* 🎓 learning at SoftUni                                      * I take private English lessons to improve my English.                              
+* 🎓 learning at SoftUni                                                                                                * I take private English lessons to improve my English.                              
 * Finished Python Basic
 
 ### Skills
