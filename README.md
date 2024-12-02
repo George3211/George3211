@@ -13,6 +13,7 @@ I'm Georgе from Bulgaria. I'm learning the Python language and I love to create
 ### Experience                                         
 * 🎓 learning at SoftUni                                                                                                                              
 * Finished Python Basic
+* Finished Python Fundamentals
 
 ### Skills
 * 💻 Python
